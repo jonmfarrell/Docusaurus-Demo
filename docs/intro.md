@@ -6,6 +6,9 @@ sidebar_position: 1
 
 Let's discover **Docusaurus in less than 15 minutes**.
 
+
+
+
 ## Getting Started
 
 Get started by **creating a new site**.
@@ -23,7 +26,7 @@ Generate a new Docusaurus site using the **classic template**.
 
 The classic template will automatically be added to your project after you run the command:
 
-```bash
+```html
 npm init docusaurus@latest my-website classic
 ```
 
